@@ -59,7 +59,7 @@ Built in **under 6 hours**, utilizing a cloud-native approach on AWS.
 ---
 
 <p align="center">
-  <img width="400" alt="Tribuna Salamanca's New" src="https://github.com/user-attachments/assets/ba467b43-744e-4727-8c2e-18ec473abddc" />  
+  <img width="700" height="450" alt="Tribuna Salamanca's New" src="https://github.com/user-attachments/assets/ba467b43-744e-4727-8c2e-18ec473abddc" />  
 </p>
 
 
